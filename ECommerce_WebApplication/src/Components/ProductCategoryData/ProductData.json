@@ -1,0 +1,461 @@
+[
+  {
+    "id": 1,
+    "quantity": 0,
+    "title": "Red Label Tea - Natural Care, 100 g",
+    "price": 60,
+    "category": "Breverages",
+    "description": "Red Label Natural Care is from the house of Brooke bond and the brand Red Label. Red Label Natural Care Tea contains the goodness of 5 Natural Ingredients - Cardamom, Ginger, Tulsi, Mulethi & Ashwagandha, all of them are extremely beneficial for your body as they enhance immunity while giving a unique flavor to the rich tea.",
+    "pack_size": [
+      {
+        "size": "100 g",
+        "price": 60
+      },
+      {
+        "size": "1 kg",
+        "price": 570
+      },
+      {
+        "size": "500 g",
+        "price": 285
+      }
+    ],
+    "images": [
+      "https://www.bigbasket.com/media/uploads/p/l/266583_7-red-label-tea-natural-care.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "quantity": 0,
+    "title": "Nescafe Classic Instant Coffee, 100 g Glass Jar",
+    "price": 270,
+    "category": "Breverages",
+    "description": "a 100% natural coffee 100% pure natural coffee beans go into making every granule of NESCAFE Classic. With the new world class ERA technology, you get richer aroma and an unmatched coffee experience to stimulate your senses every morning with your favourite NESCAFE. Donot forget Coffee is 100% natural and contains antioxidants. Antioxidants help to fight free radicals. So grab your favourite NESCAFE CLASSIC and kick start your day the NESCAFE way!",
+    "pack_size": [
+      {
+        "size": "100 g",
+        "price": 270
+      },
+      {
+        "size": "25 g",
+        "price": 75
+      }
+    ],
+    "images": [
+      "https://www.bigbasket.com/media/uploads/p/l/1204494_1-nescafe-coffee-classic.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "quantity": 0,
+    "title": "Madhur Sugar - Refined, 5 kg Pouch",
+    "price": 215,
+    "category": "Breverages",
+    "description": "Madhur sugar is pure, hygienic and meets international standards. It is available in small and medium crystal sizes packed in 1kg and 5kg quantity. Madhur has brought together knowledge of sweetening passion to develop a product that is untouched by hand for the consumers. From the morning cuppa, the favourite cake and the special recipe, we make it better. No matter what the occasion is we are there with a brand you know and trust.",
+    "pack_size": [
+      {
+        "size": "5 kg",
+        "price": 215
+      },
+      {
+        "size": "1 kg",
+        "price": 50
+      }
+    ],
+    "images": [
+      "https://www.bigbasket.com/media/uploads/bpi/ahmedabad-gandhinagar/l/214431_1-madhur-sugar-refined.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "quantity": 0,
+    "title": "bb Popular Cashew/Kaju - Whole, 500 g",
+    "price": 399,
+    "category": "Dry Fruits",
+    "description": "Whole kaju or cashew from the house of bb Popular are absolutely delicious and crunchy; this popular snack is loaded with nutritional values. It is said that a handful of cashews can be really good for your health as it has sufficient amounts of phosphorus, manganese, copper and magnesium. Cashews, unlike other oily tree nuts, contain starch which comprises 10% of their weight. This actually helps them to be more effective in dishes like milk-based desserts, stews and soups.",
+    "pack_size": [
+      {
+        "size": "500 g",
+        "price": 399
+      },
+      {
+        "size": "100 g",
+        "price": 93
+      },
+      {
+        "size": "200 g",
+        "price": 185
+      },
+      {
+        "size": "1 kg",
+        "price": 917
+      }
+    ],
+    "images": [
+      "https://www.bigbasket.com/media/uploads/p/l/10000551_10-bb-popular-cashewkaju-whole.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "quantity": 0,
+
+    "title": "bb Popular Anjeer - Figs, 200 g",
+    "price": 266,
+    "category": "Dry Fruits",
+    "description": "Figs are bell-shaped fruits with wrinkled and tough skin. They are one of the sweetest fruits and also have a very sugary scent. They are rich in antioxidants, phytonutrients and vitamins. Dried figs, indeed, are an extremely concentrated supply of minerals and vitamins. Dried figs are mainly consumed raw and are used as sweeteners in desserts and baked goods.",
+    "pack_size": [
+      {
+        "size": "100 g",
+        "price": 134
+      },
+      {
+        "size": "200 g",
+        "price": 266
+      }
+    ],
+    "images": [
+      "https://www.bigbasket.com/media/uploads/p/l/40019556_5-bb-popular-anjeer-figs.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "quantity": 0,
+
+    "title": "bb Popular Almond/Badam Californian/Badam, 500 g Pouch",
+    "price": 289,
+    "category": "Dry Fruits",
+    "description": "Almonds are light brown skinned, tough, edible seeds of the almond fruit. They have a wealthy yet subtle bitter-sweet flavor. These are assets of nutrients, especially protein, dietary fibre, mono-unsaturated fatty acids and B complex vitamins. Also, it is wealthy in vitamin E and minerals such as potassium, calcium, manganese, zinc, iron and selenium.",
+    "pack_size": [
+      {
+        "size": "500 g",
+        "price": 289
+      },
+      {
+        "size": "200 g",
+        "price": 142
+      },
+      {
+        "size": "100 g",
+        "price": 72
+      },
+      {
+        "size": "1 kg",
+        "price": 702
+      }
+    ],
+    "images": [
+      "https://www.bigbasket.com/media/uploads/p/l/10000549_14-bb-popular-almondbadam-californian-giri.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "quantity": 0,
+
+    "title": "bb Popular Raisins/Draksh - Indian, 500 g Pouch",
+    "price": 139,
+    "category": "Dry Fruits",
+    "description": "It's safe to say that raisins are irreplaceable as a healthy member of the dry fruits category. These golden, green or black delicacies are favourites of almost everyone, particularly children. Raisins are widely used in cultural cooking around the world (especially in desserts) and are also added to health tonics, snacks and compact, high-energy food supplements for mountaineers, backpackers, and campers. By including raisins in your diet helps you increase the level of antioxidants in your system. Raisin varieties depend on the type of grape used and are made in a variety of sizes and colours including green, black, blue, purple and yellow. Value provides you with green raisin with lots of benefits",
+    "pack_size": [
+      {
+        "size": "500 g",
+        "price": 139
+      },
+      {
+        "size": "100 g",
+        "price": 32
+      },
+      {
+        "size": "200 g",
+        "price": 64
+      },
+      {
+        "size": "1 kg",
+        "price": 309
+      }
+    ],
+    "images": [
+      "https://www.bigbasket.com/media/uploads/p/l/40002630_11-bb-popular-raisinskishmish-indian.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "quantity": 0,
+
+    "title": "bb Royal Dates/Khajur - Red, 500 g",
+    "price": 82,
+    "category": "Dry Fruits",
+    "description": "These premium dates come in an attractive pack, keeping in mind all the hygienic precautions while packing. These dates are a rich source of Iron and Vitamin C. Have them on a daily basis to reap the fruits of good health and stay fit. Dates have amazing medicinal properties. They are rich in antioxidants. They maintain good overall body health and give vitality to all age groups of both sexes. Dates are free from cholesterol and have low level of fats (0.2%) and sodium. Include dates in your diet to stay healthy and fit.",
+    "pack_size": [
+      {
+        "size": "500 g",
+        "price": 82
+      }
+    ],
+    "images": [
+      "https://www.bigbasket.com/media/uploads/p/l/40076869_1-bb-royal-dates-red.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "quantity": 0,
+
+    "title": "Daawat Basmati Rice/Basmati Chokha - Pulav, 5 kg Pouch",
+    "price": 540,
+    "category": "Rice",
+    "description": "A dish of mysterious, ancient origins that has found its way all over the world,  authentic Pulav is characterized by the slender nature of its lustrous grains. Daawat Pulav Basmati Rice is apt for anything from simple Peas Pulav to exotic, Persian recipes.",
+    "pack_size": [
+      {
+        "size": "5 kg",
+        "price": 540
+      },
+      {
+        "size": "1 kg",
+        "price": 111
+      }
+    ],
+    "images": [
+      "https://www.bigbasket.com/media/uploads/p/l/70000146_5-daawat-basmati-rice-pulav.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "quantity": 0,
+
+    "title": "Super Saver Idli Rice, 1 kg",
+    "price": 45,
+    "category": "Rice",
+    "description": "Idli Rice is a good supply of proteins and carbohydrates. It is nutritious as it is a rich supply of fibers and is simple to healthy and digests. They are light and it can make in jiffy with minimum ingredients. It makes smooth, flaky rice flour idli taste delicious with any sambar, chutney or even podi. It is preferred for making idlis and dosas, as well as kanji for elders and babies, as it is easier to digest and better in terms of nutrition than raw rice.",
+    "pack_size": [
+      {
+        "size": "1 kg",
+        "price": 45
+      }
+    ],
+    "images": [
+      "https://www.bigbasket.com/media/uploads/p/l/70000146_5-daawat-basmati-rice-pulav.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "quantity": 0,
+
+    "title": "Aashirvaad Shudh Chakki Atta/Ghau No Lot, 10 Kg",
+    "price": 328,
+    "category": "Flour",
+    "description": "Aashirvaad Shudh Chakki Atta is made using the 4-step advantage process that gives 100% pure and natural whole wheat atta with natural dietary fibres and nutrients. The 4-step advantage process of sourcing, cleaning, grinding and nutrition lockage ensures that the atta remains untouched by hands, thereby making the chakki atta safe. This process ensures that Aashirvaad atta contains 0% Maida and 100% Sampoorna Atta. The essential nutrition remains locked in the whole wheat atta which helps in easy digestion and supporting immunity.Aashirvaad Shudh Chakki Atta helps make soft, fluffy and delicious rotis which helps you power through the day. Directly sourced from a wide network of Indian rural farmers. The grain produce goes through a 3-step cleaning process that ensures the best quality of wheat grains. The dough made from this chakki atta absorbs more water which makes sure that the rotis remain softer for a longer period. You and your family can lead a fit and healthier lifestyle as you enjoy soft, fluffy and delicious rotis from this natural protein rich whole wheat atta.",
+    "pack_size": [
+      {
+        "size": "10 kg",
+        "price": 328
+      },
+      {
+        "size": "5 kg",
+        "price": 186
+      }
+    ],
+    "images": [
+      "https://www.bigbasket.com/media/uploads/p/l/40127505_6-aashirvaad-shudh-chakki-atta.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "quantity": 0,
+
+    "title": "bb Royal Organic - Rice Flour, 2 kg",
+    "price": 110,
+    "category": "Flour",
+    "description": "Rice flour is obtained from thinly ground rice. It is minced from raw white rice and is used in making various tasty dishes. Rice flour acts as a healthy thickening agent in few refrigerated recipes, it gives the dishes smooth consistency. Rice flour is gluten free and a fine substitute for wheat flour. It is used to make sweets and rice noodles and also has an extensive use in baby food products. It is free from synthetic chemicals and pesticides.BB Royal is a premium brand of organic staples by Big Basket. The entire range of products is sourced from the best of farms and products to ensure high-quality standards. All BB Royal products are cleaned and packed in hygienic facilities in high-quality food-grade packaging. There is a no questions asked return policy on all BB Royal products in a bid to provide you nothing but the best!",
+    "pack_size": [
+      {
+        "size": "2 kg",
+        "price": 110
+      },
+      {
+        "size": "1 kg",
+        "price": 66
+      },
+      {
+        "size": "500 g",
+        "price": 35
+      }
+    ],
+    "images": [
+      "https://www.bigbasket.com/media/uploads/p/l/40203911_1-bb-royal-organic-rice-flour.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "quantity": 0,
+
+    "title": "By Nature Coconut Flour, 400 g",
+    "price": 304,
+    "category": "Flour",
+    "description": "Coconut flour is made from dried coconut cake (also called meat). Coconut meat is the white, firm inside part of the coconut. The milk is separated from Coconut meat in order to produce the dry flour. Once the meat is strained and separated from the coconuts milk, it is baked at a low temperature to dry it out and create a powdery flour made entirely of coconut.",
+    "pack_size": [
+      {
+        "size": "400 g",
+        "price": 304
+      },
+      {
+        "size": "200 g",
+        "price": 158
+      }
+    ],
+    "images": [
+      "https://www.bigbasket.com/media/uploads/p/l/40108748_3-by-nature-coconut-flour.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "quantity": 0,
+
+    "title": "Gaay Chhap Besan Fine, 500 g",
+    "price": 46,
+    "category": "Flour",
+    "description": "Grams Flour",
+    "pack_size": [
+      {
+        "size": "500 g",
+        "price": 46
+      },
+      {
+        "size": "1 kg",
+        "price": 90
+      }
+    ],
+    "images": [
+      "https://www.bigbasket.com/media/uploads/p/l/40048461_1-gaay-chhap-besan-fine.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "quantity": 0,
+    "title": "Fortune Refined - Cotton Seed Oil, 5 L",
+    "price": 692,
+    "category": "Oil",
+    "description": "Cotton oil free from argemone oil and protein,carbohydrate,cholesterol absent (conatain 100gm.eng.900k cal,fat 99.9%).",
+    "pack_size": [
+      {
+        "size": "5 L",
+        "price": 692
+      },
+      {
+        "size": "1 L",
+        "price": 140
+      }
+    ],
+    "images": [
+      "https://www.bigbasket.com/media/uploads/p/l/40071744_3-fortune-refined-cotton-seed-oil.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "quantity": 0,
+
+    "title": "Parachute Pure Coconut Oil, 600 ml Bottle",
+    "price": 228,
+    "category": "Oil",
+    "description": "Parachute Coconut oil is India’s No.1 coconut oil that contains the goodness of 100% pure coconut oil. It is made from naturally sun-dried coconuts sourced from the finest farms of our country. The oil is extracted from the nuts through a meticulous hands free process. It goes through a 5 stage purification process and as many as 27 quality tests are performed on the oil so that each bottle that reaches you is 100% pure- EVERY SINGLE TIME.A tamper-proof seal ensures that the rich aroma of raw coconuts is preserved for a long time. It contains no added chemicals, scent, additives or preservatives and lasts fresh & safe for up to 18 months. It is licensed by FSSAI as an edible grade coconut oil. All this ensures that every bottle of coconut oil adheres to the Parachute promise of being 100% safe and 100% pure. Parachute coconut oil is now available in convenient sizes of 1 Litre and 600ml packs. Parachute Coconut Oil comes from the house of Marico. Marico sells more than 1 billion packs of coconut oil every year.",
+    "pack_size": [
+      {
+        "size": "600 ml",
+        "price": 228
+      },
+      {
+        "size": "200 ml",
+        "price": 82
+      },
+      {
+        "size": "300 ml",
+        "price": "112"
+      }
+    ],
+    "images": [
+      "https://www.bigbasket.com/media/uploads/p/l/40132873_2-parachute-pure-coconut-oil.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "quantity": 0,
+
+    "title": "Nestle Koko Krunch Breakfast Cereal - Chocolate Flavour, 350 g",
+    "price": 144,
+    "category": "BreakFast Items",
+    "description": "Relish the goodness of NestlÃ© Koko Krunch which provides more than just a good start to your day, by offering a sensible, great-tasting breakfast focused towards a better, healthier future. Whole grain is an important part of a healthy balanced diet and NestlÃ© ensures you and your kid gets the whole grain goodness paired with a lot of deliciousness. What's more? Koko Krunch is your everyday reliable source of Vitamin D and Calcium as well as B-vitamins, Iron and Fibre. These nutrients, with a chocolatey taste, combine to give a nourishing start to your day. Koko Krunch Cereals can be prepared easily by adding 30 grams of NestlÃ© Koko Krunch with 120 ml of warm or cold milk for an instant breakfast. The cereal remains crunchy even in warm milk. Allergens: It may contain Milk, Peanuts, Tree Nuts, Mustard, Celery, Sesame and Lupin. Storage Instruction: Store in a cool, dry and hygienic place. After opening, transfer contents to an airtight container. Use within 3 weeks",
+    "pack_size": [
+      {
+        "size": "350 g",
+        "price": 144
+      }
+    ],
+    "images": [
+      "https://www.bigbasket.com/media/uploads/p/l/40185403_2-nestle-koko-krunch-breakfast-cereal-chocolate-flavour.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "quantity": 0,
+
+    "title": "Quaker Oats, 1 kg Pouch",
+    "price": 141,
+    "category": "BreakFast Items",
+    "description": "Start your morning with a wholesome bowl of Quaker Oats- the perfect breakfast porridge for the whole family. Quaker oats is made from 100 % wholegrain oats, which is a natural source of carbohydrates, protein, and dietary fibre. It helps reduce the risk of high blood pressure and cholesterol. It is easy to prepare in just 3 minutes and blends into almost any recipe, enhancing its nutritional value without compromising on taste. Preparation- Add 1 by 2 cup of Oats, 1 glass skimmed milk and cook for 2 to 3 minutes on stove/microwave. Add sugar/honey as per your taste. Top it up with your favourite fruits and nuts to make it more delicious and nutritious. Nutritional information (per 100g)- Energy - 407 Kcal, Protein - 11.8 g, Total Fat -9.5 g, Total Carbohydrate - 68.5 g, Total Dietary Fibre - 10 g, Iron - 2.5 mg, Magnesium - 106mg, Sodium - 9.5 mg, Zinc - 2.0 mg Ingredients- Oats About the brand - For over 135 years, Quaker has unlocked the power of oats to help people get the perfect start to each day.",
+    "pack_size": [
+      {
+        "size": "1 kg",
+        "price": 141
+      },
+      {
+        "size": "1.5 kg",
+        "price": 238
+      }
+    ],
+    "images": [
+      "https://www.bigbasket.com/media/uploads/p/l/208345_16-quaker-oats.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "quantity": 0,
+
+    "title": "Angur Toor Dal - Desi Oily, 1 kg",
+    "price": 130,
+    "category": "Dal",
+    "description": "Sort the toovar dal well to remove stones and dirt. Wash it in running water, and then soak in warm water for 30 minutes to 1 hour. This makes the dal easier to cook.",
+    "pack_size": [
+      {
+        "size": "1 kg",
+        "price": 130
+      },
+      {
+        "size": "5 kg",
+        "price": 637
+      }
+    ],
+    "images": [
+      "https://www.bigbasket.com/media/uploads/p/l/40076954_1-angur-toor-dal-desi-oily.jpg"
+    ]
+  },
+  {
+    "id": 20,
+    "quantity": 0,
+
+    "title": "Tata Sampann Moong Dal, 500 g Pouch",
+    "price": 85.54,
+    "category": "Dal",
+    "description": "An important part of the Indian diet, Moong Dal is a good and filling option for those who want to shed kilos. It is extremely light and easy to digest since it has minimal calories but is packed with protein",
+    "pack_size": [
+      {
+        "size": "500 g",
+        "price": 85.54
+      },
+      {
+        "size": "1 kg",
+        "price": 170
+      }
+    ],
+    "images": [
+      "https://www.bigbasket.com/media/uploads/p/l/30007756_1-tata-sampann-moong-dal.jpg"
+    ]
+  }
+]

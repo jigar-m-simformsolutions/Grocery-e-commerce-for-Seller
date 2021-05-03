@@ -1,0 +1,53 @@
+.login-card {
+    margin: 0 auto; 
+    width: 50%; 
+}
+.password-div{
+    position: relative;
+    display: flex;
+    margin-bottom: 14px;
+}
+
+.Head {
+    text-align: center;
+    color: rgb(116, 92, 172);
+    cursor: pointer;
+    margin-top: 50px;
+}
+
+.Head > p {
+    font-size: 30px;
+    font-style: italic;
+}
+
+i {
+    position: absolute;
+    top: 20%;
+    right: 2%;
+    cursor: pointer;
+    color: #6c757d;
+}
+
+i:hover{
+    color: black;
+}
+
+.Create-Account-Link{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.login-btn > span {
+    margin: 0 10px;
+    font-size: 15px;
+}
+
+.login-btn{
+    padding: 10px 20px;
+    background-color: rgb(46, 184, 108);
+    color:white;
+    border: none;
+    border-radius: 30px;
+}

@@ -1,0 +1,12 @@
+.sendotp-btn, .submit-btn, .next-btn{
+    padding: 10px 20px;
+    margin: 0 20px 0 20px;
+    background-color: rgb(3, 3, 3);
+    color:white;
+    border: none;
+    border-radius: 30px;
+}
+
+.next-btn{
+    background-color: rgb(46, 184, 108);
+}

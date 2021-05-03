@@ -1,0 +1,42 @@
+.signup-card {
+  margin: 0 auto;
+  width: 50%;
+}
+
+.signup-card > Alert {
+  color: rgb(221, 122, 122);
+}
+
+.Head {
+  text-align: center;
+  color: rgb(116, 92, 172);
+  cursor: pointer;
+  margin-top: 50px;
+}
+
+.Head > p {
+  font-size: 30px;
+  font-style: italic;
+
+}
+
+.login-Link {
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+.signup-btn > span{
+  padding: 0;
+  margin: 0 10px;
+  font-size: 15px;
+}
+
+.signup-btn{
+  padding: 10px 20px;
+  background-color: rgb(46, 184, 108);
+  color:white;
+  border: none;
+  border-radius: 30px;
+}
